@@ -33,6 +33,3 @@ MIT License
 
 ## 👨‍💻 Autor
 Gocaru
-  ↓
-feature/adicionar-logo
-feature/suporte-multiplas-folhas
